@@ -1,2 +1,2 @@
-print"Heello sanika"
-print"learning pythin"
+print("Heello sanika")
+print("learning pythin")
